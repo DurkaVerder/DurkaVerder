@@ -44,14 +44,14 @@
 ### 📊 Статистика профиля:
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DurkaVerder&show_icons=true&theme=auto" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DurkaVerder&theme=auto" />
+  <img src="https://github-readme-stats.vercel.app/api?username=DurkaVerder&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DurkaVerder&theme=tokyonight" />
 </p>
 
 ### 🚀 Моя активность на GitHub:
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=DurkaVerder&theme=auto" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=DurkaVerder&theme=auto" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=DurkaVerder&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=DurkaVerder&theme=tokyonight" />
 </p>
 
 ---
@@ -67,6 +67,7 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=20&center=true&vCenter=true&width=550&pause=1000&lines=Не+бойся+ошибок%2C+бойся+их+не+исправить!;Каждый+баг+–+это+возможность+узнать+что-то+новое!;Кодить+или+не+кодить%3F+Вот+в+чём+вопрос!;Пиши+код%2C+который+будет+понятен+даже+через+год!" />
 </p>
+
 
 ---
 
