@@ -48,12 +48,27 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=DurkaVerder&theme=tokyonight" />
 </p>
 
+### 🚀 Моя активность на GitHub:
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=DurkaVerder&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=DurkaVerder&theme=tokyonight" />
+</p>
+
 ---
 
 ### 🏆 LeetCode статистика:
 <p align="center">
   <img src="https://leetcard.jacoblin.cool/DurkaVerder?theme=dark&font=Noto%20Sans%20Meroitic" alt="LeetCode Stats" />
 </p>
+
+---
+
+### 💡 Моя мотивация:
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+</p>
+
+---
 
 🚀 **Всегда рад новым проектам и коллаборациям!** 🚀
 
