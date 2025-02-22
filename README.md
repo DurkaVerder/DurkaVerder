@@ -4,7 +4,7 @@
 
 ### 💻 О себе:
 - 🔹 **Backend-разработчик на Go**
-- 🔹 Изучаю **высоконагруженные системы**, **Kafka**, **gRPC**
+- 🔹 Изучаю **высоконагруженные системы**, **gRPC**
 - 🔹 Работаю с **Docker, Kubernetes, PostgreSQL, Redis, Kafka**
 - 🔹 Пишу тесты на **Testify, Gomock**
 - 🔹 Разрабатываю микросервисные приложения  
@@ -17,7 +17,7 @@
 |----------|-----------|-------------|
 | [Monitoring-Docker-containers](https://github.com/DurkaVerder/Monitoring-Docker-containers) | Мониторинг состояния контейнеров | Go, Docker, React, PostgreSQL |
 | [Caching-Proxy](https://github.com/DurkaVerder/Caching-Proxy) | Кэширующий прокси-сервер | Go, HTTP, Cache |
-| [Order-Processing-System](https://github.com/DurkaVerder/Order-Processing-System) | Микросервисная система обработки заказов | Go, Kafka, PostgreSQL |
+| [Order-Processing-System](https://github.com/DurkaVerder/Order-Processing-System) | Микросервисная система обработки заказов | Go, Kafka, PostgreSQL, Redis |
 
 ---
 
