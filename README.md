@@ -1,9 +1,5 @@
 <h1 align="center">👋 Привет! Я Фабрикант Тимур </h1>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=DurkaVerder&label=Просмотров%20профиля&color=blueviolet&style=flat-square" alt="Profile views" />
-</p>
-
 ---
 
 ### 💻 О себе:
@@ -40,7 +36,7 @@
 
 ### 📫 Контакты:
 
-- 📩 Telegram: [@твоя-ссылка](https://t.me/DurkaVerder)
+- 📩 Telegram: [@https://t.me/DurkaVerder]
 - 📧 Email: timurfabrikant@gmail.com
 
 ---
