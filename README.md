@@ -4,8 +4,9 @@
 
 ### 💻 О себе:
 - 🔹 **Backend-разработчик на Go**
-- 🔹 Изучаю **высоконагруженные системы**, **gRPC**
-- 🔹 Работаю с **Docker, Kubernetes, PostgreSQL, Redis, Kafka**
+- 🔹 Студент, получаю высшее образованиев сфере **Автоматизированные системы обработки информации и управления** (Бакалавриат)
+- 🔹 Изучаю **высоконагруженные системы**, **gRPC**, **Kubernetes**
+- 🔹 Работаю с **Docker, PostgreSQL, Redis, Kafka**
 - 🔹 Пишу тесты на **Testify, Gomock**
 - 🔹 Разрабатываю микросервисные приложения  
 
@@ -21,7 +22,7 @@
 
 ---
 
-### 🛠 Технологии:
+### 🛠 Мой стэк:
 
 <p align="center">
   <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
@@ -52,13 +53,6 @@
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=DurkaVerder&theme=tokyonight" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=DurkaVerder&theme=tokyonight" />
-</p>
-
----
-
-### 🏆 LeetCode статистика:
-<p align="center">
-  <img src="https://leetcard.jacoblin.cool/DurkaVerder?theme=auto&font=Noto%20Sans%20Meroitic" alt="LeetCode Stats" />
 </p>
 
 ---
