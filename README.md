@@ -49,8 +49,9 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=DurkaVerder&show_icons=true&theme=tokyonight" />
-  <br>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=DurkaVerder&theme=tokyonight" />
+  <br>
+  ![LeetCode Stats](https://leetcard.jacoblin.cool/DurkaVerder?theme=dark&font=Noto%20Sans%20Meroitic)
 </p>
 
 ---
@@ -58,7 +59,7 @@
 🚀 **Всегда рад новым проектам и коллаборациям!** 🚀
 
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/DurkaVerder?theme=dark&font=Noto%20Sans%20Meroitic)
+
 
 
 
