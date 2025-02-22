@@ -1,26 +1,62 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Fabrikant Timur
-=======================================================================================================================================
+<h1 align="center">👋 Привет! Я Фабрикант Тимур </h1>
 
-Go developer
-------------
-
-I love developing services and experimenting with technologies
-
-* 🌍  I'm based in Moscow, Russia
-* ✉️  You can contact me at [timurfabrikant@gmail.com](mailto:timurfabrikant@gmail.com)
-* 🧠  I'm learning highly loaded systems
-
-### Skills
-
-
-<p align="left">
-<a href="https://go.dev/doc/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/go-colored.svg" width="36" height="36" alt="Go" /></a><a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a><a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode.svg" width="36" height="36" alt="VS Code" /></a><a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a><a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="36" height="36" alt="Docker" /></a><a href="https://www.linux.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" width="36" height="36" alt="Linux" /></a>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=DurkaVerder&label=Просмотров%20профиля&color=blueviolet&style=flat-square" alt="Profile views" />
 </p>
 
+---
 
+### 💻 О себе:
+- 🔹 **Backend-разработчик на Go**
+- 🔹 Изучаю **высоконагруженные системы**, **Kafka**, **gRPC**
+- 🔹 Работаю с **Docker, Kubernetes, PostgreSQL, Redis, Kafka**
+- 🔹 Пишу тесты на **Testify, Gomock**
+- 🔹 Разрабатываю микросервисные приложения  
 
-<a href="http://www.github.com/DurkaVerder"><img src="https://github-readme-stats.vercel.app/api?username=DurkaVerder&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="DurkaVerder's GitHub stats" /></a>
-<a href="http://www.github.com/DurkaVerder"><img src="https://github-readme-streak-stats.herokuapp.com/?user=DurkaVerder&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+---
+
+### 🚀 Мои проекты:
+
+| 🔥 Проект | 📝 Описание | 🚀 Технологии |
+|----------|-----------|-------------|
+| [Monitoring-Docker-containers](https://github.com/DurkaVerder/Monitoring-Docker-containers) | Мониторинг состояния контейнеров | Go, Docker, React, PostgreSQL |
+| [Caching-Proxy](https://github.com/DurkaVerder/Caching-Proxy) | Кэширующий прокси-сервер | Go, HTTP, Cache |
+| [Order-Processing-System](https://github.com/DurkaVerder/Order-Processing-System) | Микросервисная система обработки заказов | Go, Kafka, PostgreSQL |
+
+---
+
+### 🛠 Технологии:
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
+</p>
+
+---
+
+### 📫 Контакты:
+
+- 📩 Telegram: [@твоя-ссылка](https://t.me/DurkaVerder)
+- 📧 Email: timurfabrikant@gmail.com
+
+---
+
+### 📊 Статистика профиля:
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=DurkaVerder&show_icons=true&theme=tokyonight" />
+  <br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DurkaVerder&theme=tokyonight" />
+</p>
+
+---
+
+🚀 **Всегда рад новым проектам и коллаборациям!** 🚀
+
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/DurkaVerder?theme=dark&font=Noto%20Sans%20Meroitic)
 
