@@ -50,6 +50,11 @@
 ![LeetCode Stats](https://leetcard.jacoblin.cool/DurkaVerder?theme=dark&font=Noto%20Sans%20Meroitic)
 ---
 
+### 🏆 LeetCode статистика:
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/DurkaVerder?theme=dark&font=Noto%20Sans%20Meroitic" alt="LeetCode Stats" />
+</p>
+
 🚀 **Всегда рад новым проектам и коллаборациям!** 🚀
 
 
